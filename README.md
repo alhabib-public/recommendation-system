@@ -57,6 +57,11 @@ To run the stress tests via locust, please pip install locust and then run the s
 make run-service
 ```
 
+And then you can run the locust target:
+```
+make stress-test
+```
+
 And an example output will be (on my local CPU machine so it can be sped up with multiple CPUs in a VM):
 
 ![](locust_output_sample_mult_users.png)
