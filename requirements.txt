@@ -1,0 +1,15 @@
+pandas
+pytest
+numpy
+scikit-learn
+fastapi
+uvicorn
+locust
+jupyter
+pandas
+numpy
+scipy
+fastapi
+uvicorn
+locust
+sentence-transformers
